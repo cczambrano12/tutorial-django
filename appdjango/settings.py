@@ -75,7 +75,7 @@ CORS_ORIGIN_REGEX_WHITELIST = [
 ]
 
 # -------------- How to route any given URL
-ROOT_URLCONF = 'app_backend.urls'
+ROOT_URLCONF = 'appdjango.urls'
 
 # -------------- How to render HTML django templates, html pages rendered
 TEMPLATES = [
@@ -95,7 +95,7 @@ TEMPLATES = [
 ]
 
 # -------------- How server works, settings of server
-WSGI_APPLICATION = 'app_backend.wsgi.application'
+WSGI_APPLICATION = 'appdjango.wsgi.application'
 
 
 # Database

@@ -32,6 +32,7 @@ Tutorial backend django Uniandes - Solar energy
 ```
 pip3 install djangorestframework
 pip3 install requests
+pip3 install django-cors-headers
 ```
 2. Ubicarse dentro de la carpeta del proyecto tutorial-django
 3. Ejecutar migraciones de django para configurar y generar la base de datos
