@@ -58,3 +58,11 @@ http://127.0.0.1:8000/energy/data -> Consulta todos los registros almacenados en
 
 http://127.0.0.1:8000/energy/new?lat=40&lon=-105&tilt=15&power=0.3 -> Consulta API externa de NREL, procesa datos y los almacena en Base de datos.
 IMPORTANTE: La API de NREL tiene sólo datos de Estados Unidos por lo que si se desean cambiar los valores de Latitud y Longitud se deben seleccionar valores cercanos a los del ejemplo
+
+### Documentación
+API de NREL:
+* https://developer.nrel.gov/signup/ -> Para registrarse y general KEY propia
+* https://developer.nrel.gov/docs/solar/solar-resource-v1/ -> Documentación API que se va a consumir
+
+Documentación Django:
+* https://docs.djangoproject.com/en/3.2/
