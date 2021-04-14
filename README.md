@@ -66,3 +66,7 @@ API de NREL:
 
 Documentación Django:
 * https://docs.djangoproject.com/en/3.2/
+
+
+### Estructura GIT del proyecto
+![image](https://user-images.githubusercontent.com/67881744/114646709-60a49a80-9ca1-11eb-9cc3-09ef122ce57b.png)
